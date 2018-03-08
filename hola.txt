@@ -1,2 +1,6 @@
 Hola mundo
+<<<<<<< HEAD
 2.-Línea creada en equipo
+=======
+1.- Línea nueva creada online.
+>>>>>>> cfec10668b25c9a184cd3cec601a71c0f47c4389
